@@ -22,7 +22,7 @@
 }
 
 .container header{
-    font-size:0.75rem;
+    font-size:8.75rem;
     font-weight: 600;
     color: var(--blue);
     background: url('/icons/levelup.svg') no-repeat center;
@@ -43,7 +43,7 @@
 .container button{
     position:absolute;
     right: 0.5rem;
-    left:0.5rem;
+    top:0.5rem;
     background:transparent;
     border:0;
     font-size:0;
